@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Milk Application", "Milk Application\Milk Application.csproj", "{7A3C63B2-AF18-4B29-83E6-80C5DC42707D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{E11BA07F-4CE5-4FB2-8AAB-777F3E6F3A7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A3C63B2-AF18-4B29-83E6-80C5DC42707D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A3C63B2-AF18-4B29-83E6-80C5DC42707D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A3C63B2-AF18-4B29-83E6-80C5DC42707D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A3C63B2-AF18-4B29-83E6-80C5DC42707D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E11BA07F-4CE5-4FB2-8AAB-777F3E6F3A7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E11BA07F-4CE5-4FB2-8AAB-777F3E6F3A7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E11BA07F-4CE5-4FB2-8AAB-777F3E6F3A7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E11BA07F-4CE5-4FB2-8AAB-777F3E6F3A7F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7158B496-712C-4BB9-B2F6-E4444AF069F0}
+	EndGlobalSection
+EndGlobal
